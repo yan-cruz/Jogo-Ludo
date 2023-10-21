@@ -5,7 +5,7 @@ A projeto foi desenvolvido em C, pois essa é a linguagem vista durante a matér
 
 
 # Requisitos ⚙️
-Entre os requisitos do trabalho estavam a utilização de recursos aprendidos durante a diciplina, tais como:
+Entre os requisitos do trabalho estavam a utilização de recursos aprendidos durante a disciplina, tais como:
 
 - Structs;
 
