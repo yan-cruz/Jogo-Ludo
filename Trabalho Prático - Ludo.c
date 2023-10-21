@@ -6,13 +6,13 @@
                                 Aluno: Yan Cruz
                     1º período, Eng. da Computação, 1EngCM16.
 
-						  Professor: Edwaldo Rodrigues
+			  Professor: Edwaldo Rodrigues
 
 
-					“Se você não pode fazer grandes coisas, 
-					faça pequenas coisas de forma grandiosa."
+		     “Se você não pode fazer grandes coisas, 
+		    faça pequenas coisas de forma grandiosa."
 
-												-- Napoleon Hill
+						-- Napoleon Hill
 
 *******************************************************************************/
 
