@@ -29,7 +29,9 @@ Apesar de não ser obrigatória a representação visual do jogo, escolhi implem
 Segue algumas imagens da compilação:
 
 - Página inicial
-![PáginaInicial](https://prnt.sc/CZJNgcXIlQ8D)
+
+![inicial](https://github.com/yan-cruz/Jogo-Ludo/assets/90066228/a48c7cf9-aee2-443f-9ed3-e19d72301d71)
 
 - Tabuleiro na posição inicial
-![Tabuleiro](https://prnt.sc/22ei8B0fGDDU)
+
+![tab](https://github.com/yan-cruz/Jogo-Ludo/assets/90066228/f483f1ed-bbf7-45db-9800-3fe03b72f916)
