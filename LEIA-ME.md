@@ -1,21 +1,21 @@
 # Sobre o projeto ♟️
-O jogo foi desenvolvido como trabalho final da matéria Algoritmos e Estruturas de Dados I, do curso de Engenharia da Computação.
+Este jogo foi desenvolvido como trabalho final da disciplina "Algoritmos e Estruturas de Dados I" do curso de Engenharia da Computação.
 
-A projeto foi desenvolvido em C, pois essa é a linguagem vista durante a matéria em questão, AED's I.
+O projeto foi desenvolvido em C, pois essa é a linguagem ensinada durante a disciplina de AED's I.
 
 
 # Requisitos ⚙️
-Entre os requisitos do trabalho estavam a utilização de recursos aprendidos durante a disciplina, tais como:
+Entre os requisitos do trabalho, estavam a utilização de recursos aprendidos durante a disciplina, tais como:
 
 - Structs;
 
 - Laços de repetição;
 
-- Utilização de Funções;
+- Utilização de funções;
 
-- Utilização de Matriz(es) e/ou Vetor(es);
+- Utilização de matriz(es) e/ou vetor(es);
 
-- Nomes intuitivos para Registros, Funções e Variáveis;
+- Nomes intuitivos para registros, funções e variáveis;
 
 - Permitir que o usuário escolha a quantidade de jogadores (2 ou 4); e
 
@@ -24,7 +24,7 @@ Entre os requisitos do trabalho estavam a utilização de recursos aprendidos du
 
 # Curiosidades 🎲
 
-Apesar de não ser obrigatória a representação visual do jogo, escolhi implementá-la, visando a facilidade durante a gameplay.
+Embora não fosse obrigatória a representação visual do jogo, escolhi implementá-la, visando a facilidade durante a jogabilidade.
 
 Segue algumas imagens da compilação:
 
